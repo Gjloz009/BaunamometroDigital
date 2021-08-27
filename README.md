@@ -1,5 +1,10 @@
 # Baunamometro Digital
-Proyecto realizado usando un arduino recreando un baunamometro digital con código hecho por nosotros (mi compañero Rodrigo y yo).
+Se construyo un baumanometro digital con el uso de una placa arduino UNO, un sensor MPX2050DP y un amplificador operacional. 
 
-# Digital Baunamometer
-Proyect realizated using arduino recreting a digital baunamometer with code done by us (My partner Rodrigo y yo).
+- Los datos se analizaron con un método de pendientes para encontrar picos máximos de pulsos en un intervalo de tiempo.
+- Se construyó el dispositivo con funcionamiento. 
+- Se cuenta con más de 2k visitas en la página de arduino hub.
+
+![](/arduino)
+![](/pulsos)
+
