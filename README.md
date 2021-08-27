@@ -5,6 +5,7 @@ Se construyo un baumanometro digital con el uso de una placa arduino UNO, un sen
 - Se construyó el dispositivo con funcionamiento. 
 - Se cuenta con más de 2k visitas en la página de arduino hub.
 
-![](/arduino)
-![](/pulsos)
-
+![](/arduino.png)
+![](/pulsos.png)
+---
+Este proyecto fue realizado en python y en arduino 
